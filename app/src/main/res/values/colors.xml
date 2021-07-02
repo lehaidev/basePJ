@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#008577</color>
+    <color name="accent">#D81B60</color>
+
+    <color name="surface">#e3e3e5</color>
+    <color name="onAccentHighEmphasis">#deffffff</color>
+    <color name="onSurfaceHighEmphasis">#de000000</color>
+    <color name="onSurfaceMediumEmphasis">#090909</color>
+    <color name="onSurfaceDisabled">#61000000</color>
+</resources>
